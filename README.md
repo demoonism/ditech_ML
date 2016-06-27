@@ -1,4 +1,4 @@
-## didichuxing machine learning competition.
+## Didichuxing machine learning competition.
 
 All works are completed with datascientist workbench.
 best score 0.23....did not make it to the final round. 
