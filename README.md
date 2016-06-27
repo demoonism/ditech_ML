@@ -9,7 +9,7 @@ best score 0.23....did not make it to the final round.
 
 
 ## Reflection:
-Very interesing topic, traffic is a huge issue in modern cities. By predicting supply amd demand gap, car sharing companies could utilize their resources more wisely and therefore help us riders eventually.
+Very interesting topic, traffic is a huge issue in modern cities. By predicting supply amd demand gap, car sharing companies could utilize their resources more wisely and therefore help us riders eventually.
 
 This is my first attempt in machine learning competitions. lesson learned: data > algorithm....
 
