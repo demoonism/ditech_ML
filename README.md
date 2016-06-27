@@ -5,7 +5,7 @@ best score 0.23....did not make it to the final round.
 
 1. process data using pandas dataframe.
    - datascientist workbench somehow does not allow importing modules (bug? reported to IBM.)
-2. building NN with neural net, did not get a chance to implement CNN.
+2. building NN with tensorflow, did not get a chance to implement CNN.
 
 
 ## Reflection:
